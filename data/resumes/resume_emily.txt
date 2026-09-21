@@ -1,0 +1,25 @@
+Emily Wilson
+
+Email: emily.wilson@example.com
+Location: Pune, India
+
+PROFESSIONAL SUMMARY
+
+Data Scientist with 3 years of experience in machine learning and data analysis.
+
+SKILLS
+
+Python, Pandas, NumPy, Scikit-learn, TensorFlow, SQL
+
+EXPERIENCE
+
+Data Scientist
+
+- Built machine learning models using Python.
+- Performed data analysis using Pandas and NumPy.
+- Developed predictive models.
+- Created data visualization dashboards.
+
+EDUCATION
+
+M.Tech in Data Science

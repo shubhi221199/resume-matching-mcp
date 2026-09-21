@@ -1,0 +1,25 @@
+David Miller
+
+Email: david.miller@example.com
+Location: Delhi, India
+
+PROFESSIONAL SUMMARY
+
+Full Stack Developer with 4 years of experience in web development.
+
+SKILLS
+
+JavaScript, React, Node.js, Express, MongoDB, Python, Docker
+
+EXPERIENCE
+
+Full Stack Developer
+
+- Built web applications using React and Node.js.
+- Developed REST APIs using Express.
+- Worked with MongoDB databases.
+- Used Python for automation scripts.
+
+EDUCATION
+
+B.Tech in Computer Science

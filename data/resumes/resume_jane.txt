@@ -1,0 +1,25 @@
+Jane Smith
+
+Email: jane.smith@example.com
+Location: Bangalore, India
+
+PROFESSIONAL SUMMARY
+
+Frontend Developer with 3 years of experience building modern web applications.
+
+SKILLS
+
+React, JavaScript, TypeScript, HTML, CSS, Redux, Next.js
+
+EXPERIENCE
+
+Frontend Developer - WebTech
+
+- Developed responsive applications using React.
+- Built reusable TypeScript components.
+- Managed application state using Redux.
+- Improved frontend performance.
+
+EDUCATION
+
+B.Tech in Information Technology

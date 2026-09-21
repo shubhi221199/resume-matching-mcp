@@ -1,0 +1,25 @@
+John Doe
+
+Email: john.doe@example.com
+Location: Bangalore, India
+
+PROFESSIONAL SUMMARY
+
+Backend Developer with 4 years of experience building scalable web applications.
+
+SKILLS
+
+Python, Django, Flask, PostgreSQL, AWS, Docker, Git
+
+EXPERIENCE
+
+Software Engineer - Tech Solutions
+
+- Developed REST APIs using Python and Django.
+- Built backend services using Flask.
+- Worked with PostgreSQL databases.
+- Deployed applications using AWS and Docker.
+
+EDUCATION
+
+B.Tech in Computer Science

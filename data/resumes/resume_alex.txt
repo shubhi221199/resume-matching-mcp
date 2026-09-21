@@ -1,0 +1,25 @@
+Alex Kumar
+
+Email: alex.kumar@example.com
+Location: Hyderabad, India
+
+PROFESSIONAL SUMMARY
+
+Java Backend Developer with 5 years of experience in enterprise applications.
+
+SKILLS
+
+Java, Spring Boot, Hibernate, SQL, PostgreSQL, Docker, Kubernetes
+
+EXPERIENCE
+
+Senior Software Engineer
+
+- Developed REST APIs using Spring Boot.
+- Designed microservices architecture.
+- Worked with SQL and PostgreSQL databases.
+- Containerized applications using Docker.
+
+EDUCATION
+
+B.Tech in Computer Science
