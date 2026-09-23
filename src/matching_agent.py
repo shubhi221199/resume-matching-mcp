@@ -62,11 +62,19 @@ class ResumeMatchingAgent:
 
 
 if __name__ == "__main__":
+    import argparse
     from .filesystem_mcp_server import FileSystemMCPServer
+
+    parser = argparse.ArgumentParser(description="Match resumes against a job description")
+    parser.add_argument("--job-description", help="Job requirements to match against")
+    args = parser.parse_args()
+    job_description = args.job_description or input(
+        f"Enter job description [{DEFAULT_JOB_DESCRIPTION}]: "
+    ).strip() or DEFAULT_JOB_DESCRIPTION
 
     root = Path("data/resumes")
     root.mkdir(parents=True, exist_ok=True)
     server = FileSystemMCPServer(root_dir=str(root))
     client = MCPClient(server=server)
-    agent = ResumeMatchingAgent(client, job_description=DEFAULT_JOB_DESCRIPTION)
+    agent = ResumeMatchingAgent(client, job_description=job_description)
     print(json.dumps(agent.run(), indent=2))
